@@ -1,4 +1,4 @@
-# NNDL
+# [NNDL](https://github.com/Sheshipal/NNDL)
 Neural Networks and Deep Learning course repo.
 ## [Assignment 1:](https://github.com/Sheshipal/NNDL/tree/main/Assignment%2001)
 It consist of problem on finding the global minimum point for the function f(x) = x**4 + 3*x**2 + 10.
